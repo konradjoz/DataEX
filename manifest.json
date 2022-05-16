@@ -1,0 +1,16 @@
+{
+    "name": "DataX",
+    "description": "Personal Data X times faster!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "ui.html",
+      "default_icon": {
+        "170": "logo.png"
+      }
+    }
+  }
