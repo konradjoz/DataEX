@@ -26,13 +26,13 @@ Open Google Chrome > Settings > Extensions > Load unpacked > Select folder
     + [ ]  Firefox
     + [ ]  Internet Exploerer
     + [ ]  Safari
-- [ ]  Options UI
+- Options UI
     + [ ]  Table
     + [ ]  Add/Edit/Delete fields values from table
 - [ ]  Import/Export user data from JSON, CSV, XLSX
 - [ ]  Save user data as JSON w/ optional encryption 
 - [ ]  Auto generated tables with copy-to-clipboard button
-- [ ]  Popup UI
+- Popup UI
     + [ ]  GitHub button
     + [ ]  Website button
 
